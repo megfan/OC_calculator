@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/megfan/OC_calculator/static/css/main.d6f6c7dc.chunk.css",
+    "main.js": "/megfan/OC_calculator/static/js/main.8cc07ea3.chunk.js",
+    "main.js.map": "/megfan/OC_calculator/static/js/main.8cc07ea3.chunk.js.map",
+    "runtime-main.js": "/megfan/OC_calculator/static/js/runtime-main.a37c82d0.js",
+    "runtime-main.js.map": "/megfan/OC_calculator/static/js/runtime-main.a37c82d0.js.map",
+    "static/js/2.6bb0f596.chunk.js": "/megfan/OC_calculator/static/js/2.6bb0f596.chunk.js",
+    "static/js/2.6bb0f596.chunk.js.map": "/megfan/OC_calculator/static/js/2.6bb0f596.chunk.js.map",
+    "index.html": "/megfan/OC_calculator/index.html",
+    "precache-manifest.2c7ce6c2dd74986cda3044b77dd359d2.js": "/megfan/OC_calculator/precache-manifest.2c7ce6c2dd74986cda3044b77dd359d2.js",
+    "service-worker.js": "/megfan/OC_calculator/service-worker.js",
+    "static/css/main.d6f6c7dc.chunk.css.map": "/megfan/OC_calculator/static/css/main.d6f6c7dc.chunk.css.map"
+  }
+}
