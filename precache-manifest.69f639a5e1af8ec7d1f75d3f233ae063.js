@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8091e7ab1f9c8f43ed6a236bcd4134d",
+    "revision": "b7346385541ddacd00cf9af4c6962edc",
     "url": "/megfan/OC_calculator/index.html"
   },
   {
-    "revision": "5f10b7bbdd6a1c0269f7",
-    "url": "/megfan/OC_calculator/static/css/main.d6f6c7dc.chunk.css"
+    "revision": "5f1e4cc58f44eeb78188",
+    "url": "/megfan/OC_calculator/static/css/main.87914f2a.chunk.css"
   },
   {
     "revision": "29fb09a8652db03b1170",
     "url": "/megfan/OC_calculator/static/js/2.6bb0f596.chunk.js"
   },
   {
-    "revision": "5f10b7bbdd6a1c0269f7",
+    "revision": "5f1e4cc58f44eeb78188",
     "url": "/megfan/OC_calculator/static/js/main.8cc07ea3.chunk.js"
   },
   {
