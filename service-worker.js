@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/megfan/OC_calculator/precache-manifest.69f639a5e1af8ec7d1f75d3f233ae063.js"
+  "/megfan/OC_calculator/precache-manifest.a850e210dd632eff43c38b334db9c223.js"
 );
 
 self.addEventListener('message', (event) => {

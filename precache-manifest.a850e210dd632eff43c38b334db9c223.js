@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7346385541ddacd00cf9af4c6962edc",
+    "revision": "6f0c124f9f238f417f3423e998856b79",
     "url": "/megfan/OC_calculator/index.html"
   },
   {
-    "revision": "5f1e4cc58f44eeb78188",
+    "revision": "c69fac316e5cfc60eeda",
     "url": "/megfan/OC_calculator/static/css/main.87914f2a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/megfan/OC_calculator/static/js/2.6bb0f596.chunk.js"
   },
   {
-    "revision": "5f1e4cc58f44eeb78188",
-    "url": "/megfan/OC_calculator/static/js/main.8cc07ea3.chunk.js"
+    "revision": "c69fac316e5cfc60eeda",
+    "url": "/megfan/OC_calculator/static/js/main.d7546929.chunk.js"
   },
   {
     "revision": "1d103d400419abc53453",
