@@ -1,5 +1,3 @@
-// import { SEARCH_FUEL } from '../actions/types'
-
 
 const fuelReducer = (state = [], action) => {
     switch(action.type){

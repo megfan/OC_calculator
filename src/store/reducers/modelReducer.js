@@ -1,5 +1,3 @@
-// import { SEARCH_MODEL } from '../actions/types'
-
 
 const modelReducer = (state = [], action) => {
     switch(action.type){
