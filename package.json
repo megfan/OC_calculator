@@ -2,7 +2,7 @@
   "name": "punkta-oc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/megfan/OC_calculator",
+  "homepage": "https://github.com/megfan/OC_calculator/",
   "dependencies": {
     "@material-ui/core": "^4.4.2",
     "@material-ui/icons": "^4.4.3",
